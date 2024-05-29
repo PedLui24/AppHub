@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO-CORE I5\\Ejercicios\\AppHub_V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D736018-2863-4472-B1A2-98C5A10D3605}|AppHub.Application\\AppHub.Application.csproj|c:\\users\\lenovo-core i5\\ejercicios\\apphub_v2\\apphub.application\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D736018-2863-4472-B1A2-98C5A10D3605}|AppHub.Application\\AppHub.Application.csproj|solutionrelative:apphub.application\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D736018-2863-4472-B1A2-98C5A10D3605}|AppHub.Application\\AppHub.Application.csproj|c:\\users\\lenovo-core i5\\ejercicios\\apphub_v2\\apphub.application\\providers\\iemailvalidatorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D736018-2863-4472-B1A2-98C5A10D3605}|AppHub.Application\\AppHub.Application.csproj|solutionrelative:apphub.application\\providers\\iemailvalidatorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB922CF-08CD-4384-922E-80A75371B827}|AppHub.Application.Test\\AppHub.Application.Test.csproj|c:\\users\\lenovo-core i5\\ejercicios\\apphub_v2\\apphub.application.test\\common\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB922CF-08CD-4384-922E-80A75371B827}|AppHub.Application.Test\\AppHub.Application.Test.csproj|solutionrelative:apphub.application.test\\common\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB922CF-08CD-4384-922E-80A75371B827}|AppHub.Application.Test\\AppHub.Application.Test.csproj|c:\\users\\lenovo-core i5\\ejercicios\\apphub_v2\\apphub.application.test\\mock\\emailvalidatorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB922CF-08CD-4384-922E-80A75371B827}|AppHub.Application.Test\\AppHub.Application.Test.csproj|solutionrelative:apphub.application.test\\mock\\emailvalidatorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB922CF-08CD-4384-922E-80A75371B827}|AppHub.Application.Test\\AppHub.Application.Test.csproj|c:\\users\\lenovo-core i5\\ejercicios\\apphub_v2\\apphub.application.test\\personservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB922CF-08CD-4384-922E-80A75371B827}|AppHub.Application.Test\\AppHub.Application.Test.csproj|solutionrelative:apphub.application.test\\personservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO-CORE I5\\Ejercicios\\AppHub_V2\\AppHub.Application\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "AppHub.Application\\Services\\PersonService.cs",
+              "ToolTip": "C:\\Users\\LENOVO-CORE I5\\Ejercicios\\AppHub_V2\\AppHub.Application\\Services\\PersonService.cs",
+              "RelativeToolTip": "AppHub.Application\\Services\\PersonService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:13:50.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmailValidatorProvider.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO-CORE I5\\Ejercicios\\AppHub_V2\\AppHub.Application\\Providers\\IEmailValidatorProvider.cs",
+              "RelativeDocumentMoniker": "AppHub.Application\\Providers\\IEmailValidatorProvider.cs",
+              "ToolTip": "C:\\Users\\LENOVO-CORE I5\\Ejercicios\\AppHub_V2\\AppHub.Application\\Providers\\IEmailValidatorProvider.cs",
+              "RelativeToolTip": "AppHub.Application\\Providers\\IEmailValidatorProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:13:45.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailValidatorProvider.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO-CORE I5\\Ejercicios\\AppHub_V2\\AppHub.Application.Test\\Mock\\EmailValidatorProvider.cs",
+              "RelativeDocumentMoniker": "AppHub.Application.Test\\Mock\\EmailValidatorProvider.cs",
+              "ToolTip": "C:\\Users\\LENOVO-CORE I5\\Ejercicios\\AppHub_V2\\AppHub.Application.Test\\Mock\\EmailValidatorProvider.cs",
+              "RelativeToolTip": "AppHub.Application.Test\\Mock\\EmailValidatorProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:53:28.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO-CORE I5\\Ejercicios\\AppHub_V2\\AppHub.Application.Test\\Common\\TestBase.cs",
+              "RelativeDocumentMoniker": "AppHub.Application.Test\\Common\\TestBase.cs",
+              "ToolTip": "C:\\Users\\LENOVO-CORE I5\\Ejercicios\\AppHub_V2\\AppHub.Application.Test\\Common\\TestBase.cs",
+              "RelativeToolTip": "AppHub.Application.Test\\Common\\TestBase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:20:35.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO-CORE I5\\Ejercicios\\AppHub_V2\\AppHub.Application.Test\\PersonServiceTest.cs",
+              "RelativeDocumentMoniker": "AppHub.Application.Test\\PersonServiceTest.cs",
+              "ToolTip": "C:\\Users\\LENOVO-CORE I5\\Ejercicios\\AppHub_V2\\AppHub.Application.Test\\PersonServiceTest.cs",
+              "RelativeToolTip": "AppHub.Application.Test\\PersonServiceTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:17:13.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

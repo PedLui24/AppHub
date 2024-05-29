@@ -1,0 +1,11 @@
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Domain\bin\Debug\net6.0\AppHub.Domain.deps.json
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Domain\bin\Debug\net6.0\AppHub.Domain.dll
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Domain\bin\Debug\net6.0\AppHub.Domain.pdb
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Domain\obj\Debug\net6.0\AppHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Domain\obj\Debug\net6.0\AppHub.Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Domain\obj\Debug\net6.0\AppHub.Domain.AssemblyInfo.cs
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Domain\obj\Debug\net6.0\AppHub.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Domain\obj\Debug\net6.0\AppHub.Domain.dll
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Domain\obj\Debug\net6.0\refint\AppHub.Domain.dll
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Domain\obj\Debug\net6.0\AppHub.Domain.pdb
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Domain\obj\Debug\net6.0\ref\AppHub.Domain.dll

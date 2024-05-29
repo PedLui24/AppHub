@@ -1,0 +1,15 @@
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Application\bin\Debug\net6.0\AppHub.Application.deps.json
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Application\bin\Debug\net6.0\AppHub.Application.dll
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Application\bin\Debug\net6.0\AppHub.Application.pdb
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Application\bin\Debug\net6.0\AppHub.Domain.dll
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Application\bin\Debug\net6.0\AppHub.Domain.pdb
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Application\obj\Debug\net6.0\AppHub.Application.csproj.AssemblyReference.cache
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Application\obj\Debug\net6.0\AppHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Application\obj\Debug\net6.0\AppHub.Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Application\obj\Debug\net6.0\AppHub.Application.AssemblyInfo.cs
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Application\obj\Debug\net6.0\AppHub.Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Application\obj\Debug\net6.0\AppHub.A.790A4BB1.Up2Date
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Application\obj\Debug\net6.0\AppHub.Application.dll
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Application\obj\Debug\net6.0\refint\AppHub.Application.dll
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Application\obj\Debug\net6.0\AppHub.Application.pdb
+C:\Users\LENOVO-CORE I5\Ejercicios\AppHub_V2\AppHub.Application\obj\Debug\net6.0\ref\AppHub.Application.dll
